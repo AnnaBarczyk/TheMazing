@@ -21,7 +21,7 @@ Maps 02 and 03 not ready yet.
 
 ## Getting Started
 
-- Clone the repository using the command `git clone https://github.com/MaciejBiernat/TheMazing.git`.
+- Clone the repository using the command `git clone https://github.com/AnnaBarczyk/TheMazing.git`.
 
 - Just type: `python3 the-mazing-2.py` and run in console.
 
