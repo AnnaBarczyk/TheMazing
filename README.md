@@ -5,7 +5,7 @@ Simple but nice looking Python console game for 2 Players. Who first is going to
 
 ### Watch the video
 [![Watch the video](https://i.imgur.com/0E2wxoW.png)](https://youtu.be/jsgQRKnU0gI)
-![alt hydro1](https://i.imgur.com/aW5FWKW.png)
+![img](https://i.imgur.com/aW5FWKW.png)
 
 ## Technology
 - Python3
